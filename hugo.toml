@@ -1,0 +1,9 @@
+baseURL = "https://iainazeem.github.io/iainazeem/"
+languageCode = "en-us"
+title = "Ain Azeem | Full Stack Developer"
+theme = ""
+
+[params]
+  name = "Ain Azeem"
+  description = "Full Stack Developer"
+  github = "iAinAzeem"
