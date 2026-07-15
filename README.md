@@ -38,11 +38,11 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iAinAzeem.iainazeem)
 ---
 **Stats**
-![Stats](https://github-readme-stats.vercel.app/api?username=iAinAzeem&show_icons=true&theme=radical)
+[![GitHub Stats](https://iainazeem.github.io/github-stats/stats?user=iAinAzeem)](https://iainazeem.github.io/github-stats/?user=iAinAzeem)
 ---
-![Trophy](https://github-profile-trophy.vercel.app/?username=iAinAzeem)
+[![Top Languages](https://iainazeem.github.io/github-stats/languages?user=iAinAzeem)](https://iainazeem.github.io/github-stats/?user=iAinAzeem)
 ---
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=iAinAzeem&layout=compact)
+[![Trophies](https://iainazeem.github.io/github-stats/trophies?user=iAinAzeem)](https://iainazeem.github.io/github-stats/?user=iAinAzeem)
 
 <!--
 # Ain Azeem
