@@ -44,6 +44,7 @@
 ---
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=iAinAzeem&layout=compact)
 
+<!--
 # Ain Azeem
 ---
 **Programming Languages** 
@@ -87,7 +88,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=iAinAzeem)
 ---
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=iAinAzeem&layout=compact)
-
+-->
 
 
 <!--
