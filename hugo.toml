@@ -1,7 +1,8 @@
-baseURL = "https://iainazeem.github.io/"
+baseURL = "https://iainazeem.github.io/iainazeem/"
 languageCode = "en-us"
 title = "Ain Azeem | Full Stack Developer"
 theme = ""
+paginate = 10
 
 [params]
   name = "Ain Azeem"
